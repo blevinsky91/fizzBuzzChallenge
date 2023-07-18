@@ -1,0 +1,15 @@
+/Users/brandonlevinsky/Desktop/Repos/FizzBuzzChallenge/FizzBuzzChallenge/FizzBuzzChallenge/bin/Debug/net7.0/FizzBuzzChallenge
+/Users/brandonlevinsky/Desktop/Repos/FizzBuzzChallenge/FizzBuzzChallenge/FizzBuzzChallenge/bin/Debug/net7.0/FizzBuzzChallenge.deps.json
+/Users/brandonlevinsky/Desktop/Repos/FizzBuzzChallenge/FizzBuzzChallenge/FizzBuzzChallenge/bin/Debug/net7.0/FizzBuzzChallenge.runtimeconfig.json
+/Users/brandonlevinsky/Desktop/Repos/FizzBuzzChallenge/FizzBuzzChallenge/FizzBuzzChallenge/bin/Debug/net7.0/FizzBuzzChallenge.dll
+/Users/brandonlevinsky/Desktop/Repos/FizzBuzzChallenge/FizzBuzzChallenge/FizzBuzzChallenge/bin/Debug/net7.0/FizzBuzzChallenge.pdb
+/Users/brandonlevinsky/Desktop/Repos/FizzBuzzChallenge/FizzBuzzChallenge/FizzBuzzChallenge/obj/Debug/net7.0/FizzBuzzChallenge.csproj.AssemblyReference.cache
+/Users/brandonlevinsky/Desktop/Repos/FizzBuzzChallenge/FizzBuzzChallenge/FizzBuzzChallenge/obj/Debug/net7.0/FizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonlevinsky/Desktop/Repos/FizzBuzzChallenge/FizzBuzzChallenge/FizzBuzzChallenge/obj/Debug/net7.0/FizzBuzzChallenge.AssemblyInfoInputs.cache
+/Users/brandonlevinsky/Desktop/Repos/FizzBuzzChallenge/FizzBuzzChallenge/FizzBuzzChallenge/obj/Debug/net7.0/FizzBuzzChallenge.AssemblyInfo.cs
+/Users/brandonlevinsky/Desktop/Repos/FizzBuzzChallenge/FizzBuzzChallenge/FizzBuzzChallenge/obj/Debug/net7.0/FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+/Users/brandonlevinsky/Desktop/Repos/FizzBuzzChallenge/FizzBuzzChallenge/FizzBuzzChallenge/obj/Debug/net7.0/FizzBuzzChallenge.dll
+/Users/brandonlevinsky/Desktop/Repos/FizzBuzzChallenge/FizzBuzzChallenge/FizzBuzzChallenge/obj/Debug/net7.0/refint/FizzBuzzChallenge.dll
+/Users/brandonlevinsky/Desktop/Repos/FizzBuzzChallenge/FizzBuzzChallenge/FizzBuzzChallenge/obj/Debug/net7.0/FizzBuzzChallenge.pdb
+/Users/brandonlevinsky/Desktop/Repos/FizzBuzzChallenge/FizzBuzzChallenge/FizzBuzzChallenge/obj/Debug/net7.0/FizzBuzzChallenge.genruntimeconfig.cache
+/Users/brandonlevinsky/Desktop/Repos/FizzBuzzChallenge/FizzBuzzChallenge/FizzBuzzChallenge/obj/Debug/net7.0/ref/FizzBuzzChallenge.dll
